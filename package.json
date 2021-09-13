@@ -6,7 +6,7 @@
     "booklet-react-component": "0.0.9",
     "react": "^15.6.1",
     "react-dom": "^16.0.1",
-    "react-scripts": "1.1.1"
+    "react-scripts": "2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
